@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=_DSPIC_RX Pin=P1-4
+Removed Pin From Net: NetName=DSPIC_TX Pin=P1-5
+Removed Pin From Net: NetName=5V Pin=P3-1
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=C12 NewDesignator=C10
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=C16 NewDesignator=C14
+Added Component: Designator=D2(DO-35)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Pin To Net: NetName=FUENTE_12V Pin=D2-2
+Added Pin To Net: NetName=DSPIC_TX Pin=P1-4
+Added Pin To Net: NetName=_DSPIC_RX Pin=P1-5
+Added Pin To Net: NetName=GPS_1PPS Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=DS3231_SQW Pin=R5-2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC8_1
+Added Pin To Net: NetName=FUENTE_EXT12V Pin=D2-1
+Added Pin To Net: NetName=FUENTE_EXT12V Pin=P3-1
+Added Net: Name=FUENTE_EXT12V
+Added Member To Class: ClassName=Esquema Member=Component D2 1N914
+Added Member To Class: ClassName=Esquema Member=Component R4 Res1
+Added Member To Class: ClassName=Esquema Member=Component R5 Res1
+Added Room: Name=Esquema

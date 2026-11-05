@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SPI2_MISO Pin=U1-5
+Added Pin To Net: NetName=SPI2_MOSI Pin=U1-14
+Added Pin To Net: NetName=SPI2_SCK Pin=U1-15
+Added Room: Name=Esquema

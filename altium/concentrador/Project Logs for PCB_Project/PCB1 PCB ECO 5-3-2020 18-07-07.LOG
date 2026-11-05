@@ -1,0 +1,11 @@
+Added Component: Designator=R17(AXIAL-0.3)
+Added Component: Designator=S1(PULSA4)
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=VCC Pin=S1-1
+Added Pin To Net: NetName=ONOFF Pin=P4-36
+Added Pin To Net: NetName=ONOFF Pin=R17-1
+Added Pin To Net: NetName=ONOFF Pin=S1-2
+Added Net: Name=ONOFF
+Added Member To Class: ClassName=Sheet1 Member=Component R17 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component S1 SW-PB
+Added Room: Name=Sheet1

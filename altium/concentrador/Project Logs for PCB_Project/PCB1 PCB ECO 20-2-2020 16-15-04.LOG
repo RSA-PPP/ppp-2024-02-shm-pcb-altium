@@ -1,0 +1,6 @@
+Added Component: Designator=VR1(TO-220V)
+Added Pin To Net: NetName=FUENTE_12V Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Pin To Net: NetName=5V Pin=VR1-3
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 Volt Reg
+Added Room: Name=Sheet1

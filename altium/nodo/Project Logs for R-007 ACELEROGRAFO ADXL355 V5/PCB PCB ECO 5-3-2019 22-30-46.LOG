@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RPI_INT1 Pin=U1-11
+Removed Pin From Net: NetName=RPI_INT2 Pin=U1-12
+Added Pin To Net: NetName=RPI_INT2 Pin=U1-11
+Added Pin To Net: NetName=RPI_INT1 Pin=U1-12
+Added Room: Name=Esquema

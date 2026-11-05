@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Add Component: Footprint Not Found LED2
+Add Component: Footprint Not Found AXIAL-0.3
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Added Net: Name=NetD2_1
+Add Class Member: Failed to add class member : Component D2 LED3
+Add Class Member: Failed to add class member : Component R1 Res1

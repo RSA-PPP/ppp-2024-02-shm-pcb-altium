@@ -1,0 +1,5 @@
+Added Component: Designator=P2(MOLEX-3)
+Added Pin To Net: NetName=FUENTE_12V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Entrada fuente externa
+Added Room: Name=Sheet1

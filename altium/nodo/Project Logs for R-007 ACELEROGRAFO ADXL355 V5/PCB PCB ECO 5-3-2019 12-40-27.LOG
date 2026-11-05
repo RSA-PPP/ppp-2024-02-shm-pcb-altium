@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=VCC Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Member From Class: ClassName=Esquema Member=C3
+Removed Member From Class: ClassName=Esquema Member=C4
+Added Member To Class: ClassName=Esquema Member=Component GPS1 GPS_BREAKOUT_V3
+Added Member To Class: ClassName=Esquema Member=Component U6 HEF4071BP
+Added Room: Name=Esquema

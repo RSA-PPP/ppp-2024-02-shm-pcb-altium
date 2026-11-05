@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=FUENTE_12V Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=5V Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Change Component DesignItemId : Designator=U2 Old DesignItemId=STEP_DOWN_CONVERTER New DesignItemId=LM1117DT-5.0
+Change Component Footprint: Designator=U2 Old Footprint=STEP_DOWN_CONVERTER New Footprint=*TO228P970X238-3N
+Change Component Comment : Designator=U2 Old Comment=STEP_DOWN New Comment=LM1117DT-5.0
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U2-2
+Added Pin To Net: NetName=FUENTE_12V Pin=U2-3
+Added Room: Name=Esquema

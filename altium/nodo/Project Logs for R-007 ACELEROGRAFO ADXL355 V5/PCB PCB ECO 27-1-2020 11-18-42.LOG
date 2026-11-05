@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DSPIC_RX Pin=W1-2
+Removed Member From Class: ClassName=Esquema Member=W1
+Added Pin To Net: NetName=DSPIC_RX Pin=U1-26
+Added Room: Name=Esquema

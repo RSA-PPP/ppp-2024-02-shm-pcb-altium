@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=FUENTE_12V Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=5V Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=VR1-2
+Removed Pin From Net: NetName=5V Pin=VR1-3
+Removed Member From Class: ClassName=Sheet1 Member=P3
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Removed Member From Class: ClassName=Sheet1 Member=VR1
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 3 New DesignItemId=Header 2
+Change Component Description : Designator=P2 Old Description=Header, 3-Pin New Description=Header, 2-Pin
+Added Component: Designator=U?(STEP_DOWN_CONVERTER)
+Added Pin To Net: NetName=FUENTE_12V Pin=C1-1
+Added Pin To Net: NetName=FUENTE_12V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=FUENTE_12V Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=5V Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Member To Class: ClassName=Sheet1 Member=Component U? STEP_DOWN_CONVERTER
+Added Room: Name=Sheet1

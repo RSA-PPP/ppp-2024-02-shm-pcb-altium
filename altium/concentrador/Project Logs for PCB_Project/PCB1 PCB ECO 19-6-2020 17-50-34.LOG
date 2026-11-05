@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=FUENTE_12V Pin=J5-1
+Removed Pin From Net: NetName=FUENTE_12V Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=A Pin=J5-5
+Removed Pin From Net: NetName=B Pin=J5-6
+Removed Pin From Net: NetName=INT_SINC_3 Pin=J5-7
+Removed Member From Class: ClassName=Sheet1 Member=J5
+Added Component: Designator=J9(*AMPHENOL_54602-908LF)
+Added Member To Class: ClassName=Sheet1 Member=Component J9 54602-908LF
+Added Room: Name=Sheet1

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=INT1_OR Pin=U6-3
+Removed Pin From Net: NetName=INT2_OR Pin=U6-4
+Removed Pin From Net: NetName=DS3231_SQW Pin=U6-5
+Removed Pin From Net: NetName=GPS_1PPS Pin=U6-6
+Added Pin To Net: NetName=DS3231_SQW Pin=U6-8
+Added Pin To Net: NetName=GPS_1PPS Pin=U6-9
+Added Pin To Net: NetName=INT2_OR Pin=U6-10
+Added Pin To Net: NetName=INT1_OR Pin=U6-11
+Added Room: Name=Esquema

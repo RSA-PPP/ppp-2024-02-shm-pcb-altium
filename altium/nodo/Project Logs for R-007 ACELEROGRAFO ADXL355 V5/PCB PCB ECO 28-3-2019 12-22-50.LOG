@@ -1,0 +1,20 @@
+Added Component: Designator=C8(RAD0.2)
+Added Component: Designator=C9(RAD0.2)
+Added Component: Designator=U3(SOT-223)
+Added Component: Designator=W2(SIP-2)
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=5V Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=VCC Pin=U3-3
+Added Pin To Net: NetName=VCC Pin=U3-3
+Added Pin To Net: NetName=FUENTE_12V Pin=W2-1
+Added Pin To Net: NetName=12V Pin=W2-2
+Added Member To Class: ClassName=Esquema Member=Component C8 Cap
+Added Member To Class: ClassName=Esquema Member=Component C9 Cap
+Added Member To Class: ClassName=Esquema Member=Component U3 LD33V
+Added Member To Class: ClassName=Esquema Member=Component U4 ADXL355Z
+Added Member To Class: ClassName=Esquema Member=Component W2 Jumper
+Added Room: Name=Esquema

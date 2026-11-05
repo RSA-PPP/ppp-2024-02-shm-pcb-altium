@@ -1,0 +1,5 @@
+Added Component: Designator=BT1(Bateria-DS1307)
+Added Pin To Net: NetName=NetBT1_0 Pin=BT1-0
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Member To Class: ClassName=Esquema Member=Component BT1 Bateria
+Added Room: Name=Esquema

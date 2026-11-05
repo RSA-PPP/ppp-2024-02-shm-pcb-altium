@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=DS3231_SQW Pin=U1-5
+Removed Pin From Net: NetName=ADXL_INT1 Pin=U1-22
+Removed Pin From Net: NetName=ADXL_INT2 Pin=U1-23
+Removed Pin From Net: NetName=INT1_OR Pin=U1-24
+Removed Pin From Net: NetName=INT2_OR Pin=U1-25
+Removed Pin From Net: NetName=GPS_1PPS Pin=U1-26
+Added Pin To Net: NetName=ADXL_INT1 Pin=U1-21
+Added Pin To Net: NetName=ADXL_INT2 Pin=U1-22
+Added Pin To Net: NetName=INT1_OR Pin=U1-23
+Added Pin To Net: NetName=INT2_OR Pin=U1-24
+Added Pin To Net: NetName=GPS_1PPS Pin=U1-25
+Added Pin To Net: NetName=DS3231_SQW Pin=U1-26
+Added Room: Name=Esquema

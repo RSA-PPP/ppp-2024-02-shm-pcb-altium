@@ -1,0 +1,4 @@
+Change Component Comment : Designator=P4 Old Comment=RPI_Pins New Comment=Header 20X2
+Change Component Library : Designator=P4 Old Library=Miscellaneous Connectors.IntLib New Library=Miscellaneous Connectors.SchLib
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 20X2
+Added Room: Name=Sheet1

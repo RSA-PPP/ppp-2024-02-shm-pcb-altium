@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Member From Class: ClassName=Esquema Member=C14
+Added Member To Class: ClassName=Esquema Member=Component BT1 Bateria
+Added Room: Name=Esquema

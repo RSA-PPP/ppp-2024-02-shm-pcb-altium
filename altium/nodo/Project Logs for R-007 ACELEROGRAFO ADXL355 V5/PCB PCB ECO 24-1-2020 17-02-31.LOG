@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetBT1_0 Pin=BT1-0
+Removed Pin From Net: NetName=GND Pin=BT1-1
+Removed Pin From Net: NetName=VCC Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=SEN_TENS Pin=U1-3
+Removed Pin From Net: NetName=MAX485_MS Pin=U1-25
+Removed Pin From Net: NetName=VCC Pin=U5-4
+Removed Pin From Net: NetName=DS3231_SQW Pin=U5-5
+Removed Pin From Net: NetName=GND Pin=U5-15
+Removed Pin From Net: NetName=NetBT1_0 Pin=U5-16
+Removed Pin From Net: NetName=SPI2_MOSI Pin=U5-17
+Removed Pin From Net: NetName=SPI2_SCK Pin=U5-18
+Removed Pin From Net: NetName=SPI2_MISO Pin=U5-19
+Removed Pin From Net: NetName=FUENTE_12V Pin=U6-1
+Removed Pin From Net: NetName=FUENTE_12V Pin=U6-2
+Removed Pin From Net: NetName=12V Pin=U6-3
+Removed Pin From Net: NetName=12V Pin=U6-4
+Removed Pin From Net: NetName=GND Pin=U6-5
+Removed Pin From Net: NetName=VCC Pin=U6-6
+Removed Pin From Net: NetName=VCC Pin=U6-8
+Removed Member From Class: ClassName=Esquema Member=BT1
+Removed Member From Class: ClassName=Esquema Member=C12
+Removed Member From Class: ClassName=Esquema Member=U5
+Removed Member From Class: ClassName=Esquema Member=U6
+Added Pin To Net: NetName=NetBT1_0 Pin=U1-25
+Change Net Name : Old Net Name=NetBT1_0 New Net Name=INT_SINC
+Added Room: Name=Esquema

@@ -1,0 +1,10 @@
+Added Component: Designator=J2(*AMPHENOL_54602-908LF)
+Added Pin To Net: NetName=FUENTE_12V Pin=J2-1
+Added Pin To Net: NetName=FUENTE_12V Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=A Pin=J2-5
+Added Pin To Net: NetName=B Pin=J2-6
+Added Pin To Net: NetName=INT_SINC Pin=J2-7
+Added Member To Class: ClassName=Esquema Member=Component J2 54602-908LF
+Added Room: Name=Esquema

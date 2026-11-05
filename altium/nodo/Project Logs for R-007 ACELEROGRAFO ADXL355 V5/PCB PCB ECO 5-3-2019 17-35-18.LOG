@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=U5-9
+Removed Pin From Net: NetName=ADXL_INT1 Pin=U6-1
+Removed Pin From Net: NetName=ADXL_INT2 Pin=U6-2
+Added Pin To Net: NetName=ADXL_INT2 Pin=U6-12
+Added Pin To Net: NetName=ADXL_INT1 Pin=U6-13
+Added Room: Name=Esquema

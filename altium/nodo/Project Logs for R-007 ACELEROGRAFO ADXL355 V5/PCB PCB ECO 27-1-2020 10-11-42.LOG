@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FUENTE_12V Pin=W2-1
+Removed Pin From Net: NetName=12V Pin=W2-2
+Removed Member From Class: ClassName=Esquema Member=W2
+Added Room: Name=Esquema

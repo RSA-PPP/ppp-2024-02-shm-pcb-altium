@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=INT_SINC_ Pin=W2-2
+Removed Pin From Net: NetName=LED_DSPIC Pin=W3-2
+Removed Member From Class: ClassName=Sheet1 Member=W2
+Removed Member From Class: ClassName=Sheet1 Member=W3
+Added Pin To Net: NetName=LED_DSPIC Pin=U1-3

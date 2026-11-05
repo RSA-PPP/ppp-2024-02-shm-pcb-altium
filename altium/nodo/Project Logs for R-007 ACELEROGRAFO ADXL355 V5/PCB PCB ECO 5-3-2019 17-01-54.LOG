@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=TOUCH_IRQ Pin=P4-31
+Added Pin To Net: NetName=TOUCH_IRQ Pin=P4-15
+Added Room: Name=Esquema

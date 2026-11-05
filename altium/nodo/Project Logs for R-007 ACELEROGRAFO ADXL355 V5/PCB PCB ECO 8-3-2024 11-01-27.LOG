@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=5V Pin=U2-2
+Removed Pin From Net: NetName=FUENTE_12V Pin=U2-3
+Removed Member From Class: ClassName=Esquema Member=U2
+Added Component: Designator=U?(NDP0003B)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=FUENTE_12V Pin=U?-3
+Added Pin To Net: NetName=5V Pin=U?-4
+Added Member To Class: ClassName=Esquema Member=Component U? LM1117DT-5.0NOPB

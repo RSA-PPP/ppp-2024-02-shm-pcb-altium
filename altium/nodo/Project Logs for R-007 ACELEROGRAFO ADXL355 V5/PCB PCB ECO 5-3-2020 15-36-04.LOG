@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=VR1 NewDesignator=VR?
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Member To Class: ClassName=Esquema Member=Component VR? Volt Reg
+Added Room: Name=Esquema

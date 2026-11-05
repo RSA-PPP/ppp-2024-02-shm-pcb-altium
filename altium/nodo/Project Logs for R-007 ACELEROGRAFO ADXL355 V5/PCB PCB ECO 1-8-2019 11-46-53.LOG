@@ -1,0 +1,10 @@
+Added Component: Designator=D3(LED2)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Pin To Net: NetName=TEST1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R6-1
+Added Net: Name=NetD3_2
+Added Member To Class: ClassName=Esquema Member=Component D3 LED3
+Added Member To Class: ClassName=Esquema Member=Component R6 Res1
+Added Room: Name=Esquema

@@ -1,0 +1,6 @@
+Added Component: Designator=W2(SIP-2)
+Added Pin To Net: NetName=FUENTE_12V Pin=W2-1
+Added Pin To Net: NetName=12V Pin=W2-2
+Added Member To Class: ClassName=Esquema Member=Component C8 Cap
+Added Member To Class: ClassName=Esquema Member=Component C9 Cap
+Added Member To Class: ClassName=Esquema Member=Component W2 Jumper

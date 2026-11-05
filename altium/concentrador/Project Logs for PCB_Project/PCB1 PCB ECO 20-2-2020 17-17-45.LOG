@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FUENTE_12V Pin=VR1-1
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X3 New Footprint=MOLEX-3
+Added Pin To Net: NetName=FUENTE_12V_ Pin=VR1-1
+Added Room: Name=Sheet1

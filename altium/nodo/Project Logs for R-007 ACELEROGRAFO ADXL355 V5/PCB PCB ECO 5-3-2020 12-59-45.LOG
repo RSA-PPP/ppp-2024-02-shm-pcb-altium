@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=VR1 Old Footprint=TO-220V New Footprint=D2PAK_N
+Change Component Designator: OldDesignator=VR1 NewDesignator=VR?
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Room: Name=Esquema

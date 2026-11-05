@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=SPI1_SCK Pin=R7-2
+Removed Pin From Net: NetName=SPI1_MOSI Pin=R8-2
+Removed Pin From Net: NetName=SPI1_DSPIC_SS Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Member From Class: ClassName=Esquema Member=R7
+Removed Member From Class: ClassName=Esquema Member=R8
+Removed Member From Class: ClassName=Esquema Member=R9
+Removed Member From Class: ClassName=Esquema Member=R10
+Removed Member From Class: ClassName=Esquema Member=R11
+Removed Member From Class: ClassName=Esquema Member=R12
+Added Component: Designator=R15(AXIAL-0.3)
+Added Pin To Net: NetName=SPI1_DSPIC_SS Pin=J1-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=J1-3
+Added Pin To Net: NetName=SPI1_SCK Pin=J1-5
+Added Pin To Net: NetName=CONSD Pin=R15-1
+Added Pin To Net: NetName=VCC Pin=R15-2
+Added Pin To Net: NetName=CONSD Pin=U1-12
+Added Member To Class: ClassName=Esquema Member=Component R15 Res1
+Added Room: Name=Esquema

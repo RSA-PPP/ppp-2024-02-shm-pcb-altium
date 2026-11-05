@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SINC_A Pin=R2-1
+Removed Pin From Net: NetName=SINC_B Pin=R5-1
+Removed Pin From Net: NetName=SINC_B Pin=U4-6
+Removed Pin From Net: NetName=SINC_A Pin=U4-7
+Added Pin To Net: NetName=SINC_B Pin=R2-1
+Added Pin To Net: NetName=SINC_A Pin=R5-1
+Added Pin To Net: NetName=SINC_A Pin=U4-6
+Added Pin To Net: NetName=SINC_B Pin=U4-7

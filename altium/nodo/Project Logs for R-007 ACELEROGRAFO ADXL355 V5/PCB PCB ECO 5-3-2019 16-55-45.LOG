@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=D/C Pin=P4-29
+Removed Pin From Net: NetName=RESET Pin=P4-37
+Added Pin To Net: NetName=D/C Pin=P4-37
+Added Pin To Net: NetName=RESET Pin=P4-40
+Added Room: Name=Esquema

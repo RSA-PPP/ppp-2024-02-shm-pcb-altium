@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=U9 Old Footprint=MAX485 New Footprint=DIP794W47P254L991H457Q8
+Added Component: Designator=R2(AXIAL-0.3 RES-1/4W)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K3"; VariantName = "[No Variations]"
+Added Component: Designator=R5(AXIAL-0.3 RES-1/4W)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K3"; VariantName = "[No Variations]"
+Added Component: Designator=U4(DIP794W47P254L991H457Q8)
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=5V Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=U4-2
+Added Pin To Net: NetName=VCC Pin=U4-3
+Added Pin To Net: NetName=INT_SINC_1 Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=5V Pin=U4-8
+Added Pin To Net: NetName=SINC_A Pin=J1-7
+Added Pin To Net: NetName=SINC_A Pin=R2-1
+Added Pin To Net: NetName=SINC_A Pin=U4-7
+Added Net: Name=SINC_A
+Added Pin To Net: NetName=SINC_B Pin=J1-8
+Added Pin To Net: NetName=SINC_B Pin=R5-1
+Added Pin To Net: NetName=SINC_B Pin=U4-6
+Added Net: Name=SINC_B
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component U4 MAX485

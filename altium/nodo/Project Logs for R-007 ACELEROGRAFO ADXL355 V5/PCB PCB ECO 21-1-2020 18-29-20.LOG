@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=GPS_1PPS Pin=GPS1-0
+Removed Pin From Net: NetName=VCC Pin=GPS1-1
+Removed Pin From Net: NetName=GND Pin=GPS1-2
+Removed Pin From Net: NetName=DSPIC_TX Pin=GPS1-3
+Removed Pin From Net: NetName=DSPIC_RX Pin=GPS1-4
+Removed Pin From Net: NetName=VCC Pin=GPS1-7
+Removed Pin From Net: NetName=5V Pin=P4-2
+Removed Pin From Net: NetName=5V Pin=P4-4
+Removed Pin From Net: NetName=GND Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-9
+Removed Pin From Net: NetName=RPI_INT1 Pin=P4-11
+Removed Pin From Net: NetName=RPI_INT2 Pin=P4-13
+Removed Pin From Net: NetName=GND Pin=P4-14
+Removed Pin From Net: NetName=RESET Pin=P4-15
+Removed Pin From Net: NetName=SPI1_MOSI Pin=P4-19
+Removed Pin From Net: NetName=GND Pin=P4-20
+Removed Pin From Net: NetName=SPI1_MISO Pin=P4-21
+Removed Pin From Net: NetName=SPI1_SCK Pin=P4-23
+Removed Pin From Net: NetName=SPI1_DSPIC_SS Pin=P4-24
+Removed Pin From Net: NetName=GND Pin=P4-25
+Removed Pin From Net: NetName=SPI1_SCR_CS Pin=P4-26
+Removed Pin From Net: NetName=D/C Pin=P4-29
+Removed Pin From Net: NetName=GND Pin=P4-30
+Removed Pin From Net: NetName=LED Pin=P4-31
+Removed Pin From Net: NetName=GND Pin=P4-34
+Removed Pin From Net: NetName=SPI1_TOUCH_CS Pin=P4-37
+Removed Pin From Net: NetName=GND Pin=P4-39
+Removed Pin From Net: NetName=TOUCH_IRQ Pin=P4-40
+Removed Pin From Net: NetName=TOUCH_IRQ Pin=P5-1
+Removed Pin From Net: NetName=SPI1_MISO Pin=P5-2
+Removed Pin From Net: NetName=SPI1_MOSI Pin=P5-3
+Removed Pin From Net: NetName=SPI1_TOUCH_CS Pin=P5-4
+Removed Pin From Net: NetName=SPI1_SCK Pin=P5-5
+Removed Pin From Net: NetName=SPI1_MISO Pin=P5-6
+Removed Pin From Net: NetName=LED Pin=P5-7
+Removed Pin From Net: NetName=SPI1_SCK Pin=P5-8
+Removed Pin From Net: NetName=SPI1_MOSI Pin=P5-9
+Removed Pin From Net: NetName=D/C Pin=P5-10
+Removed Pin From Net: NetName=RESET Pin=P5-11
+Removed Pin From Net: NetName=SPI1_SCR_CS Pin=P5-12
+Removed Pin From Net: NetName=GND Pin=P5-13
+Removed Pin From Net: NetName=VCC Pin=P5-14
+Removed Pin From Net: NetName=GPS_1PPS Pin=U1-25
+Removed Member From Class: ClassName=Esquema Member=GPS1
+Removed Member From Class: ClassName=Esquema Member=P4
+Removed Member From Class: ClassName=Esquema Member=P5
+Added Component: Designator=J1(microSD)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=R9(AXIAL-0.3)
+Added Component: Designator=R10(AXIAL-0.3)
+Added Component: Designator=R11(AXIAL-0.3)
+Added Component: Designator=R12(AXIAL-0.3)
+Added Component: Designator=R13(AXIAL-0.3)
+Added Component: Designator=R14(AXIAL-0.3)
+Added Component: Designator=U9(MAX485)
+Added Pin To Net: NetName=D/C Pin=J1-2
+Added Pin To Net: NetName=LED Pin=J1-3
+Added Pin To Net: NetName=VCC Pin=J1-4
+Added Pin To Net: NetName=RESET Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=SPI1_MISO Pin=J1-7
+Added Pin To Net: NetName=SPI1_TOUCH_CS Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=RESET Pin=R7-1
+Added Pin To Net: NetName=SPI1_SCK Pin=R7-2
+Added Pin To Net: NetName=LED Pin=R8-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=R8-2
+Added Pin To Net: NetName=D/C Pin=R9-1
+Added Pin To Net: NetName=SPI1_DSPIC_SS Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=RESET Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=LED Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=D/C Pin=R12-2
+Added Pin To Net: NetName=TOUCH_IRQ Pin=R13-1
+Added Pin To Net: NetName=5V Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=SPI1_SCR_CS Pin=U1-25
+Added Pin To Net: NetName=DSPIC_RX Pin=U9-1
+Added Pin To Net: NetName=SPI1_SCR_CS Pin=U9-2
+Added Pin To Net: NetName=SPI1_SCR_CS Pin=U9-3
+Added Pin To Net: NetName=DSPIC_TX Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=TOUCH_IRQ Pin=U9-6
+Added Pin To Net: NetName=5V Pin=U9-8
+Change Net Name : Old Net Name=D/C New Net Name=NetJ1_2
+Change Net Name : Old Net Name=LED New Net Name=NetJ1_3
+Change Net Name : Old Net Name=RESET New Net Name=NetJ1_5
+Change Net Name : Old Net Name=SPI1_SCR_CS New Net Name=MAX485_MS
+Change Net Name : Old Net Name=SPI1_TOUCH_CS New Net Name=CONSD
+Change Net Name : Old Net Name=TOUCH_IRQ New Net Name=B
+Added Pin To Net: NetName=A Pin=R14-1
+Added Pin To Net: NetName=A Pin=U9-7
+Added Net: Name=A
+Added Member To Class: ClassName=Esquema Member=Component J1 ValueValueAux
+Added Member To Class: ClassName=Esquema Member=Component R7 Res1
+Added Member To Class: ClassName=Esquema Member=Component R8 Res1
+Added Member To Class: ClassName=Esquema Member=Component R9 Res1
+Added Member To Class: ClassName=Esquema Member=Component R10 Res1
+Added Member To Class: ClassName=Esquema Member=Component R11 Res1
+Added Member To Class: ClassName=Esquema Member=Component R12 Res1
+Added Member To Class: ClassName=Esquema Member=Component R13 Res1
+Added Member To Class: ClassName=Esquema Member=Component R14 Res1
+Added Member To Class: ClassName=Esquema Member=Component U9 MAX485
+Added Room: Name=Esquema

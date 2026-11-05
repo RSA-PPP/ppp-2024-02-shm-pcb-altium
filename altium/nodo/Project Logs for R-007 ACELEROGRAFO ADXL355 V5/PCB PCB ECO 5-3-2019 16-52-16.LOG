@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RESET Pin=P4-15
+Removed Pin From Net: NetName=LED Pin=P4-37
+Removed Pin From Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=RESET Pin=P4-37
+Added Member To Class: ClassName=Esquema Member=Component U3 ADXL355Z
+Added Room: Name=Esquema

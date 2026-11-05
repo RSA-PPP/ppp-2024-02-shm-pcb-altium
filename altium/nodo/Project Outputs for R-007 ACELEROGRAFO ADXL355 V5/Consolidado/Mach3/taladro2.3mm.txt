@@ -1,0 +1,20 @@
+(  3 - 30/04/2014 / ISO-Mill Output )
+( C:\Users\SebasRSA07\Desktop\Mach3\.txt created 10/04/2019 at 12:06 )
+( Workpiece dimensions: 192.253 x 218.897 x 1.7 mm )
+G00 G90 G94 G40 G54 G80
+T20 M06 ( Drilling tool )
+M03 S8000
+M07
+G00 Z3
+G00 F1980 X-51.71 Y208.2
+G00 Z0
+G01 F78 Z-2.7
+G00 F1980 Z3
+G00 F1980 X-38.58
+G00 Z0
+G01 F78 Z-2.7
+G00 F1980 Z3
+M09
+M05
+M02
+%

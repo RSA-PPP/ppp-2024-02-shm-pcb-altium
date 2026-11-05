@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SPI1_TOUCH_CS Pin=P4-22
+Removed Pin From Net: NetName=D/C Pin=P4-37
+Added Pin To Net: NetName=SPI1_TOUCH_CS Pin=P4-37
+Added Room: Name=Esquema

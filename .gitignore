@@ -1,0 +1,34 @@
+# ==========================================
+# Altium Designer & EDA
+# ==========================================
+History/
+.history/
+*/History/
+*/.history/
+*.Zip
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.bak
+*.tmp
+debug.log
+__Previews/
+*.PcbDocPreview
+*.SchDocPreview
+*.PrjPcbStructure
+
+# ==========================================
+# Sistema Operativo y Editores
+# ==========================================
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+.vscode/
+.idea/
+*.swp
+*~
